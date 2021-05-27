@@ -974,12 +974,10 @@
 				TargetAttributes = {
 					09A218651B790D330076547A = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = W5KEQBF9B5;
 						LastSwiftMigration = 0930;
 					};
 					3E88BCA61B1F35DF00232589 = {
 						CreatedOnToolsVersion = 6.3.2;
-						DevelopmentTeam = W5KEQBF9B5;
 						LastSwiftMigration = 0930;
 					};
 					3E88BCB11B1F35DF00232589 = {
@@ -1203,6 +1201,7 @@
 			baseConfigurationReference = 5477120B1B751F7900223568 /* ios-test-host.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "WireTransport-tests-host/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1220,6 +1219,7 @@
 			baseConfigurationReference = 5477120B1B751F7900223568 /* ios-test-host.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "WireTransport-tests-host/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1252,6 +1252,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 09F027DA1B721EBE00BADDB6 /* WireTransport.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Resources/WireTransport-Info.plist";
 				MODULEMAP_PRIVATE_FILE = "$(SRCROOT)/testing.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.wire.$(PRODUCT_NAME:rfc1034identifier)";
@@ -1262,6 +1263,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 09F027DA1B721EBE00BADDB6 /* WireTransport.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Resources/WireTransport-Info.plist";
 				MODULEMAP_PRIVATE_FILE = "$(SRCROOT)/testing.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.wire.$(PRODUCT_NAME:rfc1034identifier)";

@@ -1,4 +1,4 @@
 framework=WireTransport
-organization=wireapp
+organization=billypchan
 repository=wire-ios-transport
 release-name-format={BIRD}

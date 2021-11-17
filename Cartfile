@@ -1,1 +1,2 @@
 github "billypchan/wire-ios-utilities" ~> 44.0.2
+github "wireapp/Starscream" "release/4.0.4_arm64simulator"

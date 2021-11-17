@@ -1,4 +1,5 @@
 github "billypchan/wire-ios-system" "36.0.4"
 github "billypchan/wire-ios-testing" "27.0.3"
 github "billypchan/wire-ios-utilities" "44.0.2"
+github "wireapp/Starscream" "release/4.0.4_arm64simulator"
 github "wireapp/ocmock" "v3.4.3_xcframework"

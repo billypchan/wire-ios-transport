@@ -1,4 +1,4 @@
-github "billypchan/ocmock" "v3.4.3"
-github "billypchan/wire-ios-system" "32.0.17"
-github "billypchan/wire-ios-testing" "23.0.16"
-github "billypchan/wire-ios-utilities" "40.0.7"
+github "billypchan/wire-ios-system" "36.0.4"
+github "billypchan/wire-ios-testing" "27.0.3"
+github "billypchan/wire-ios-utilities" "44.0.2"
+github "wireapp/ocmock" "v3.4.3_xcframework"
